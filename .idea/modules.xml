@@ -3,7 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/FlyBanner.iml" filepath="$PROJECT_DIR$/FlyBanner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FlyBanner.iml" filepath="$PROJECT_DIR$/FlyBanner.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flybanner/flybanner.iml" filepath="$PROJECT_DIR$/flybanner/flybanner.iml" />
       <module fileurl="file://$PROJECT_DIR$/flybanner/flybanner.iml" filepath="$PROJECT_DIR$/flybanner/flybanner.iml" />
     </modules>
   </component>
